@@ -1,0 +1,62 @@
+/*
+Project Name: DairtDMS
+
+Created By: Dev2
+
+Date: 13-10-2014 
+
+*/
+
+/* 
+    Created on : Oct 13, 2014, 12:44:56 PM
+    Author     : sofi
+*/
+.main-body{
+background-color: #FFF;
+margin: 0px;
+font: 13px/20px normal Helvetica,Arial,sans-serif;
+color: #4F5155;
+}
+.required{
+	color:red;
+}
+
+/* 
+    Created on : Oct 13, 2014, 12:44:56 PM
+    Author     : Arjun
+*/
+
+.div{
+    width: 27%;
+    float: left;
+    text-align: right;
+	margin-right: 2%;
+   }
+ .reset
+ {
+	margin: 1% 0% 2% 29%;
+ }
+ .active1
+  {
+	//background-image: url('images/active.png');
+	height: 18px;
+ }
+ .deactive1{
+	//background-image: url('images/deactive.png');
+	//height: 22px;
+ }
+
+ .common_class{
+     width: 17%;
+     float: left;
+ }
+ .common_form{
+     margin: 3% 0% 1% 9%;
+ }
+ 
+.content{
+			text-align:center !important;
+		}
+		
+ 
+
